@@ -22,5 +22,7 @@
   },
   "include": [
     "src"
-  ]
+  ],
+  "sourceType": "module",
+  "types": ["node", "cypress", "cypress-react-selector"]
 }
